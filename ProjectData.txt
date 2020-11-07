@@ -1,0 +1,7 @@
+"Living Room","Dining Room",None,None,None,"Upper Hall",None
+"Dining Room",None,None,"Living Room","Kitchen",None,None,"plate"
+"Kitchen",None,"Dining Room",None,None,None,None,"cup","fork","knife"
+"Upper Hall","Bathroom","Small Bedroom","Master Bedroom",None,None,"Living Room"
+"Bathroom",None,None,"Upper Hall",None,None,None,"magazine"
+"Small Bedroom",None,None,None,"Upper Hall",None,None
+"Master Bedroom","Upper Hall",None,None,None,None,None,"pajamas","slippers"
